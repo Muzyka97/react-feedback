@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Muzyka97/react-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/Muzyka97/react-feedback/static/js/main.3ac07e6a.js",
+    "index.html": "/Muzyka97/react-feedback/index.html",
+    "main.7acaea2f.css.map": "/Muzyka97/react-feedback/static/css/main.7acaea2f.css.map",
+    "main.3ac07e6a.js.map": "/Muzyka97/react-feedback/static/js/main.3ac07e6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.3ac07e6a.js"
+  ]
+}
