@@ -2,7 +2,7 @@
   "name": "react-feedback",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Muzyka97/react-feedback",
+  "homepage": " https://github.com/Muzyka97/react-feedback.git",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@testing-library/jest-dom": "^5.16.3",
