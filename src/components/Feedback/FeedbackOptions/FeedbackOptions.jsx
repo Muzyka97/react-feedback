@@ -16,7 +16,7 @@ const Btn = styled.button`
     background-color: ${p=>p.theme.colors.btn}
 `
 
-const FeedbackOptions = ({onHandleClick, options}) =>{
+const FeedbackOptions = ({onHandleClick, options=[]}) =>{
     const elements = options.map((option,index)=>(
         <Items key={index}><Btn onClick={()=>onHandleClick(option)}>{option}</Btn></Items>
     ));
